@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdanielsancoelho&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mrdanielsancoelho" width='300px' /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdanielsancoelho&show_icons=true&locale=en&theme=dracula" alt="mrdanielsancoelho" width='300px' /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdanielsancoelho&show_icons=true&locale=en&theme=dracula" alt="mrdanielsancoelho" width='400px' /></p>
 
