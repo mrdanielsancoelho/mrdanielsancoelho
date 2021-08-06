@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [will be available here.](will be available here.)
 
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrcoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrcoelho" height="30" width="40" /></a>
 <a href="https://instagram.com/lordecoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lordecoelho" height="30" width="40" /></a>
