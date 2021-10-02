@@ -6,9 +6,7 @@
 - 👯 Help me on [InstaJs](https://github.com/mrdanielsancoelho/instajs)
 
 - 📫 reach me on [Linktree](linktr.ee/danielcoelho)
-
-- 👨‍💻 All of my projects are available at [will be available here.](will be available here.)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrcoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrcoelho" height="30" width="40" /></a>
